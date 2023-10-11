@@ -1,6 +1,6 @@
 # Projects
 
-Below are some of the projects that i have worked on.
+Below are some of the projects that I have worked on.
 
 ## Outing - Events application
 
@@ -21,7 +21,7 @@ Key features include:
 
 ## myDoctor - Healthcare application
 
-A solution to simplify communication between doctors and patients. My role involved the design and development of the iOS application, and backend architecture. This project was my first attempt at developing a full-scale application and offered significant real-world experience. 
+A solution to simplify communication between doctors and patients. My role involved the complete design and development of the iOS application, and backend architecture. This project was my first attempt at developing a full-scale application and offered significant real-world experience. 
 
 Key features include:
 * User-friendly login/signup experience.
