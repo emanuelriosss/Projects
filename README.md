@@ -12,13 +12,11 @@ Key features include:
 * User profiles with the ability to follow and message regarding hosted events.
 
 <p align="leading">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/0a9b1f3e-fee2-4dcc-a769-576d5955a895" width="350">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/2f906850-a6ae-4ef8-822e-81946c40b13c" width="350">
-</p>
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/0a9b1f3e-fee2-4dcc-a769-576d5955a895" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/2f906850-a6ae-4ef8-822e-81946c40b13c" width="225">
 
-<p align="leading">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/ce589cad-a050-4965-9ee9-72228e9b49cf" width="350">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/a7cabdac-b0c5-4f92-af35-e5d6d360e13d" width="350">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/ce589cad-a050-4965-9ee9-72228e9b49cf" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/a7cabdac-b0c5-4f92-af35-e5d6d360e13d" width="225">
 </p>
 
 ## myDoctor - Healthcare application
@@ -31,11 +29,9 @@ Key features include:
 * Users' ability to upload and view their medical information, including recent visits, medications, and medical insurance.
 
 <p align="leading">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/fb75b4bd-f75d-4140-8a92-0226402b9a04" width="350">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/f306719c-aa4d-41d3-9685-373af9609e2b" width="350">
-</p>
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/fb75b4bd-f75d-4140-8a92-0226402b9a04" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/f306719c-aa4d-41d3-9685-373af9609e2b" width="225">
 
-<p align="leading">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/3555cb4c-3c14-43df-87b1-eb3007c73dba" width="350">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/d1fbfb1c-3fcd-4160-924f-9d7d7e535bdb" width="350">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/3555cb4c-3c14-43df-87b1-eb3007c73dba" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/d1fbfb1c-3fcd-4160-924f-9d7d7e535bdb" width="225">
 </p>
