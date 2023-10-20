@@ -35,3 +35,19 @@ Key features include:
 <img src="https://github.com/emanuelriosss/Projects/assets/60336781/3555cb4c-3c14-43df-87b1-eb3007c73dba" width="225">
 <img src="https://github.com/emanuelriosss/Projects/assets/60336781/d1fbfb1c-3fcd-4160-924f-9d7d7e535bdb" width="225">
 </p>
+
+## App Designs
+
+Below are some miscellaneous app designs that I have built and worked on.
+
+* An immersive short-form video experience with user interaction elements such as likes, comments, and other video information.
+* Live-stream view with real-time comments and metrics showing active user engagement. 
+* Snapchat profile redesign with subtle improvements to show the users bitmoji and emphasize focus on augmented reality.
+
+<p align="leading">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/7c37648a-9c14-453e-a786-a9031c400f4e" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/1167ba73-e431-4bfa-a694-b5bb36a821ef" width="225">
+
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/44d45f50-38d7-4ae9-adbd-d4b0f99a0347" width="225">
+<!-- <img src="https://github.com/emanuelriosss/Projects/assets/60336781/d1fbfb1c-3fcd-4160-924f-9d7d7e535bdb" width="225"> -->
+</p>
