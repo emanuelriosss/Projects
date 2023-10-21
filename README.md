@@ -24,16 +24,16 @@ Key features include:
 A solution to simplify communication between doctors and patients. My role involved the complete design and development of the iOS application, and backend architecture. This project was my first attempt at developing a full-scale application and offered significant real-world experience. 
 
 Key features include:
-* User-friendly login/signup experience.
 * Fetching relevant health news from the internet.
+* Find medical doctors and facilities in your area along with relevant information and ratings.
 * Users' ability to upload and view their medical information, including recent visits, medications, and medical insurance.
 
 <p align="leading">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/fb75b4bd-f75d-4140-8a92-0226402b9a04" width="225">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/f306719c-aa4d-41d3-9685-373af9609e2b" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/95169cef-575f-4fe3-a297-3cc2cb986c7d" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/5938f16f-7efd-43ed-9505-c0cb0c0fad4d" width="225">
 
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/3555cb4c-3c14-43df-87b1-eb3007c73dba" width="225">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/d1fbfb1c-3fcd-4160-924f-9d7d7e535bdb" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/852d14d7-978c-407f-a7cb-42fe74ca8f89" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/05608d22-a137-4fac-a13e-e089c7af046c" width="225">
 </p>
 
 ## App Designs
