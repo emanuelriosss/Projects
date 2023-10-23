@@ -30,7 +30,7 @@ Key features include:
 
 <p align="leading">
 <img src="https://github.com/emanuelriosss/Projects/assets/60336781/95169cef-575f-4fe3-a297-3cc2cb986c7d" width="225">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/5938f16f-7efd-43ed-9505-c0cb0c0fad4d" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/20b8dece-3459-417d-8db1-ac844e92ff64" width="225">
 
 <img src="https://github.com/emanuelriosss/Projects/assets/60336781/852d14d7-978c-407f-a7cb-42fe74ca8f89" width="225">
 <img src="https://github.com/emanuelriosss/Projects/assets/60336781/05608d22-a137-4fac-a13e-e089c7af046c" width="225">
