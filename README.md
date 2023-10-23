@@ -12,11 +12,11 @@ Key features include:
 * User profiles with the ability to follow and message regarding hosted events.
 
 <p align="leading">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/0a9b1f3e-fee2-4dcc-a769-576d5955a895" width="225">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/2f906850-a6ae-4ef8-822e-81946c40b13c" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/5664ea9f-ffa9-48ae-b7ee-ec637c977e79" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/a0654389-0876-45da-955b-7b310e30565c" width="225">
 
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/ce589cad-a050-4965-9ee9-72228e9b49cf" width="225">
-<img src="https://github.com/emanuelriosss/Projects/assets/60336781/a7cabdac-b0c5-4f92-af35-e5d6d360e13d" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/1388248e-f211-48ad-8d5a-ae17c8b9925b" width="225">
+<img src="https://github.com/emanuelriosss/Projects/assets/60336781/ca8af2b1-36e0-4e62-a55c-808484a9ee95" width="225">
 </p>
 
 ## myDoctor - Healthcare application
